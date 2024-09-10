@@ -1,0 +1,29 @@
+@media (max-width: 620px) {
+  .box {
+    max-width: 400px;
+  }
+}
+
+@media (max-width: 490px) {
+  .box {
+    max-width: 350px;
+  }
+}
+
+@media (max-width: 450px) {
+  .box {
+    max-width: 300px;
+  }
+}
+
+@media (max-width: 390px) {
+  .box {
+    max-width: 280px;
+  }
+}
+
+@media (max-width: 370px) {
+  .box {
+    max-width: 250px;
+  }
+}
